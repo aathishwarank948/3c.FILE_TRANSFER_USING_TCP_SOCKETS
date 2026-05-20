@@ -54,6 +54,10 @@ client.close()
 ## OUPUT
 <img width="947" height="1074" alt="image" src="https://github.com/user-attachments/assets/04062112-53fe-4096-964e-1eb5532c8ada" />
 <img width="963" height="1079" alt="image" src="https://github.com/user-attachments/assets/3305ce5b-1db1-46f0-9aa2-2952f0147dd7" />
+<img width="961" height="718" alt="image" src="https://github.com/user-attachments/assets/01508d30-cc05-40ed-959d-075b6b68022b" />
+<img width="945" height="737" alt="image" src="https://github.com/user-attachments/assets/87cd0937-5ee3-4e69-9f1c-ceafc3e93cb2" />
+
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
